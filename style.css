@@ -19,10 +19,13 @@ body{
     border-radius: 30px;
     padding: 10px 25px 25px;
     box-shadow: 4px 4px 35px 2px;
+    text-align: center;
 }
+
 header h1{
     font-size: 30px;
     font-weight: 500;
+    /* align-items: center; */
 }
 header p{
     font-size: 18px;
