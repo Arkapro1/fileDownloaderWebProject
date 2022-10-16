@@ -17,7 +17,7 @@ follow me on github and give a ⭐ t i this repo
 
 # ROLES
 ### 1.add your img in the image folder 
-### 2.add your name in contributor.md file
+### 2.add a .md file with -> your name 
 ### 3. Read the issue at first. you can create one also 
 like ➡
 ```
