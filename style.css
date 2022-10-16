@@ -10,12 +10,13 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: rgb(99, 112, 235);
+    background: RGB(
+ 187, 51, 255);
 }
 .wrapper{
     width: 550px;
     height: 250px;
-    background: white;
+    background: pink;
     border-radius: 30px;
     padding: 10px 25px 25px;
     box-shadow: 4px 4px 35px 2px;
@@ -43,7 +44,7 @@ form button{
     height: 35px;
     outline: none;
     border: 1px;
-    color: rgb(0, 0, 0);
+    color: pink;
     font-size: medium;
     background-color: rgb(133, 250, 217);
     border-radius: 8px;
